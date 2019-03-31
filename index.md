@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+I am a fifth year  student in the Language Technologies Institute, School of Computer Science at Carnegie Mellon University, working with Professor Prof. Yiming Yang. Prior to that, I received my B.S. degree at National Taiwan University under supervision of Prof. Chih-Jen Lin.
+
+My on-going research involves several subfields of artificial intelligence, including deep learning, kernel methods, natural language understanding, and optimization.
+
+You can contact me through X@Y, where X=wchang2 and Y=cs.cmu.edu.
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
