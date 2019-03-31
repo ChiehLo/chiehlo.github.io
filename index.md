@@ -22,7 +22,7 @@ layout: default
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: ../assets/icons_with_padding/twitter.png (github icon with padding)
+[7.1]: ./assets/icons_with_padding/twitter.png (github icon with padding)
 
 
 <!-- links to your social media accounts -->
