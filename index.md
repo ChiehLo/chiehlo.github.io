@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
@@ -25,7 +22,7 @@ layout: default
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[7.1]: ../assets/icons_with_padding/twitter.png (github icon with padding)
 
 
 <!-- links to your social media accounts -->
@@ -39,7 +36,6 @@ layout: default
 [6]: http://www.github.com/carlsednaoui
 [7]: http://www.github.com/chiehlo
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
